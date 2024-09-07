@@ -50,6 +50,9 @@ body{
      height: 50px;
     padding:12px;
 }
+.active{
+    border-bottom: 3px solid rgb(127, 127, 248);
+}
 .log:hover .ulog{
     display:block;
 }
